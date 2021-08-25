@@ -1,6 +1,7 @@
 body{
     background-image: url(nasa--hI5dX2ObAs-unsplash.jpg);
     background-size: cover;
+    background-position: center;
 }
 
     
@@ -19,12 +20,13 @@ body{
 #header{
     
     color: black;
-    font-style: italic;
+    
 }
 
 #description{
 
     color: black;
+
 }
 
 #footer{
