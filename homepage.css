@@ -1,18 +1,8 @@
 body{
-    background-color: black;
-}
-#profile{
-    padding: 40px;
-    float: left;
+    background-color: rgb(17, 16, 14);
 }
 
-#header{
-
-}
-
-#description{
-
-}
+    
 
 #nav{
     width: 1000px;
@@ -20,6 +10,23 @@ body{
     font-size: large;
     font-weight: bold;
     font-style: unset;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    background-color: bisque;
+    color: black;
+}
+
+#header{
+    background-color: bisque;
+    color: black;
+    font-style: italic;
+}
+
+#description{
+    background-color: bisque;
+    color: black;
+}
+
+#footer{
+    background-color: gray;
+    color: black;
 }
