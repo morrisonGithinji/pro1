@@ -66,3 +66,11 @@ img{
     font-style: italic;
     margin: 15px;
 }
+
+a{
+text-decoration: none;
+-moz-text-decoration-line: none;
+color: aliceblue;
+
+
+}
