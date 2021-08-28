@@ -1,4 +1,9 @@
 body{
-    background-color: black;
-    color: aliceblue;
+    background-image: url(aboutmeimage1.JPG);
+    background-size: cover;
+    background-position: center;
+}
+
+.hey{
+    text-align: center;
 }
