@@ -2,7 +2,7 @@
 #### {A website containing all my past ,current and future work.}, {This is the first and only version}
 
 ## Description
-{ }
+{It is a porfolio website with detailed navigation buttons to make it easier for use .It is built using HTML and CSS .}
 ## Setup/Installation Requirements
 * A web browser.
 

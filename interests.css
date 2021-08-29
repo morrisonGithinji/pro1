@@ -1,0 +1,16 @@
+body{
+background-image: url(background3.JPG);
+background-size: cover;
+background-position: center;
+text-align: center;
+color: aliceblue;
+
+}
+
+img{
+    border-radius: 50%;
+    border-color: black;
+    border: bold;
+    border:solid ;
+}
+
