@@ -1,7 +1,22 @@
 body{
-
+text-align: center;
+color: aliceblue;
+font-size: x-large;
+font-weight: bold;
     background-image: url(background3.JPG);
     background-size: cover;
     background-position: center;
 
 }
+
+#next{
+    
+    width: 400px;
+    height: 60px;
+    background-color: black;
+    color: aliceblue;
+    margin: 10px;
+    position: center;
+    
+}
+
