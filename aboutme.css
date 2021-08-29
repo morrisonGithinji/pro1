@@ -2,6 +2,7 @@ body{
     background-image: url(background.JPG);
     background-size: cover;
     background-position: center;
+    color: aliceblue;
 }
 
 .hey{
