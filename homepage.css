@@ -8,7 +8,7 @@ body{
 
 #nav{
     width: 1000px;
-    padding:100px;
+    padding: 100px;
     text-align: center;
     text-decoration: none;
     font-size:xx-large;
@@ -74,3 +74,15 @@ color: aliceblue;
 
 
 }
+
+#next{
+    
+    width: 400px;
+    height: 60px;
+    background-color: black;
+    color: aliceblue;
+    margin: 10px;
+    position: center;
+    
+}
+
