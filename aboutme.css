@@ -1,20 +1,27 @@
 body{
-    background-image: url(background.JPG);
+    background-image: url(background3.JPG);
     background-size: cover;
     background-position: center;
     color: aliceblue;
+
 }
 
 .hey{
     text-align: center;
+    font-weight: bold;
+    font-size: medium;
 }
 
 .me{
     text-align: center;
+    font-weight: bold;
+    font-size:large;
 }
 
 .poem{
 
     text-align: center;
+    font-weight: bold;
+    font-size: medium;
     padding-top: 50px;
 }
